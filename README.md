@@ -1,1 +1,3 @@
 # DynamicProgramming
+* memoization
+* tabulation
